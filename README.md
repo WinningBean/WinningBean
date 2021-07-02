@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Winning%20Bean&fontSize=90&animation=fadeIn&fontAlignY=37&desc=SeungBeen%20Wee)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Winning-Bean&fontSize=90&animation=fadeIn&fontAlignY=37&desc=SeungBeen%20Wee)
 
 <!--
 **Winning-Bean/Winning-Bean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
