@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Winning-Bean&fontSize=90&animation=fadeIn&fontAlignY=37&desc=SeungBeen%20Wee)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Winning-Bean&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Winning-Bean)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <!--
 **Winning-Bean/Winning-Bean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
