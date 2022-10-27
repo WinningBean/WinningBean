@@ -1,6 +1,6 @@
 <!-- header S -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Winning Bean&fontSize=90&animation=fadeIn&fontAlignY=35&desc=SeungBeen%20Wee"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=WinningBean&fontSize=90&animation=fadeIn&fontAlignY=35&desc=SeungBeen%20Wee"/>
 </div>
 <!-- header E -->
 
